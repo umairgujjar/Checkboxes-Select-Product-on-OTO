@@ -5,10 +5,11 @@ This code will help you add checkboxes for multiple products on oto page so peop
 
 Example is here: https://allisonfine12.clickfunnels.com/oto-page-24873667
 
-For help with code or if you need any other functionality please contact me on below links:
+Star this directory:star:
 
-https://facebook.com/MrUmairGujjar
+Optionally you can follow me for more.
 
-MrUmairGujjar@gmail.com
+Message on [Twitter](https://twitter.com/MrUmairGujjar), [LinkedIn](https://www.linkedin.com/in/umairgujjar/) or send a email at [umairgujjar7@gmail.com](mailto:umairgujjar7@gmail.com) if you need any help.
+
 
 https://conversionelevation.com
